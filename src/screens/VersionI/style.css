@@ -166,6 +166,7 @@
 }
 
 .version-i .frame-4 {
+  cursor: pointer;
   align-items: center;
   background: linear-gradient(10deg, #1c67e9, #2286c6,#2aa5a7);
   /* background: radial-gradient(50% 50% at 50% 50%, rgba(27, 102, 233, 1) 100%, rgba(42, 165, 167, 1) 100%); */
@@ -390,6 +391,7 @@
 }
 
 .version-i .arrow-left-outlined-wrapper {
+  cursor: pointer;
   background-color: #00000080;
   height: 50px;
   left: 0;
@@ -405,6 +407,7 @@
 }
 
 .version-i .group-2 {
+  cursor: pointer;
   background-color: #00000080;
   height: 50px;
   left: 1742px;
@@ -4734,6 +4737,7 @@
 }
 
 .version-i .frame-22 {
+  cursor: pointer;
   align-items: center;
   align-self: stretch;
   /* background: radial-gradient(50% 50% at 50% 50%, rgba(0, 80.27, 235.88, 0.4) 31%, rgba(38.25, 255, 46.92, 0.4) 100%); */
@@ -4771,6 +4775,7 @@
 }
 
 .version-i .frame-25 {
+  cursor: pointer;
   align-items: center;
   background-color: #171b28;
   border-radius: 6px;
@@ -4970,6 +4975,7 @@
 }
 
 .version-i .frame-33 {
+  cursor: pointer;
   align-items: center;
   background: linear-gradient(10deg, #1c67e9, #2286c6,#2aa5a7);
   /* background: radial-gradient(50% 50% at 50% 50%, rgba(0, 80.27, 235.88, 0.4) 31%, rgba(38.25, 255, 46.92, 0.4) 100%); */
