@@ -4735,7 +4735,10 @@
   white-space: nowrap;
   width: fit-content;
 }
-
+.frame-22 .version-i:hover{
+  /* background: linear-gradient(10deg, #1c67e9, #2286c6,#2aa5a7); */
+  box-shadow: inset 0px 3px 0px #ffffff40, 0px 4px 4px #00000073, inset 0px -4px 0px #00000040;
+} 
 .version-i .frame-22 {
   cursor: pointer;
   align-items: center;
